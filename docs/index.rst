@@ -7,7 +7,7 @@ In today's digital world, where cyber threats are becoming increasingly sophisti
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://i-downloadsoftwares.com/
 
 
 This guide will walk you through the process of **Avast antivirus download for PC**, explore the benefits of using Avast, and explain why it is one of the best choices for ensuring the security of your computer.
